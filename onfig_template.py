@@ -1,0 +1,1 @@
+MY_FIO = "Ivanov Ivan Ivanovich"
